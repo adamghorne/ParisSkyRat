@@ -5,7 +5,7 @@
 
 Built using [Cheap Bots Done Quick][1] and deployed [@ParisSkyRat][2].
 
-
+All scripts are in Tracery JSON format.
 
 
 
